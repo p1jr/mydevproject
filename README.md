@@ -1,2 +1,2 @@
-# mydevproject
-My journey to be a dev. ( Im a brazilian student )
+# myproject
+My journey to be a ?. ( Im a brazilian guy )
